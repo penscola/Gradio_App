@@ -26,7 +26,7 @@ To setup and run this project you need to have Python3 installed on your system.
 # Screenshots
 | Churn_App default interface       | Churn_App with output           |
 |-----------------------------------|---------------------------------|
-|![Alt text](Default_UI.png)        |![Alt text](UI_with_output.png)  |    
+|![Alt text](Default_UUI_Design&Screenshots/Default_UI.png)        |![Alt text](UI_Design&Screenshots/UI_with_output.png)  |    
 
 
 # Author
