@@ -30,7 +30,7 @@ To setup and run this project you need to have Python3 installed on your system.
 
 
 # Author
-- Jacob O. Jaroya
-- https://www.linkedin.com/in/jjaroya/
+- Felix Kiprotich
+- https://www.linkedin.com/in/felix-kiprotich-a2ba1a1a4/
 - https://huggingface.co/spaces/UholoDala/Churn_Prediction
 
